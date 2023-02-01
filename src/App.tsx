@@ -1,6 +1,4 @@
 import Logo from './logo.svg'
-import React, { useState, useRef, useEffect } from 'react'
-import ReactDOM from 'react-dom'
 import './App.css'
 
 function App() {
