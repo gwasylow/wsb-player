@@ -32,6 +32,7 @@ function App() {
   return (
     <div className="App">
       <header className="App-header">
+        <div>WSB-Player</div>
         <button onClick={() => playClick('intro')} style={myStyle}>PLAY INTRO</button>
         <button onClick={() => playClick('correct')} style={myStyle}>&gt;&gt; Play CORRECT</button>
         <button onClick={() => playClick('fail')} style={myStyle}>&gt;&gt; Play FAIL</button>
